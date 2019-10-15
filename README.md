@@ -4,7 +4,7 @@ This set of 700 MISP instances is used in the computational experiments of the f
 
 - JE Gonzalez, A. Cire, A. Lodi, and LM Rousseau. Integrated Integer Programming and Decision Diagram Search Tree with an Application to the Maximum Independent Set Problem.
 
-The instance filename corresponds to id-fam-n-p.txt where:
+The instance filename (id-fam-n-p.txt) corresponds to:
 - id: id number of the instance
 - fam: family according to the random graph generation model used to generate the instance
 - n: number of nodes in the undirected graph
